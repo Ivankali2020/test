@@ -8,3 +8,5 @@ echo 'sending email to koko';
 echo 'sending other user';
 
 echo 'typing from cli';
+
+echo 'typing from online';
